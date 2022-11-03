@@ -1,6 +1,6 @@
 # Sticky Notes
 
-References :
+References : \
 https://www.sitepoint.com/using-regular-expressions-to-check-string-length/ \
 https://www.tutorialspoint.com/regex-in-reactjs \
 https://www.javacodegeeks.com/reactjs-form-validation-example.html#:~:text=ReactJS%20Form%20Validation%20Example%201%201.%20Tools%20and,5%205.%20Download%20the%20Source%20Code%20Download%20 \
