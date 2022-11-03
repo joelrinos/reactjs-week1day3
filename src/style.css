@@ -1,0 +1,49 @@
+* {
+  font-family:Arial;
+  font-size:100%;
+}
+.profileform {
+  margin-top: 4rem;
+}
+
+label.mandatory::after {
+    content: "*";
+    padding-right: 3px;
+    padding-left: 5px;
+    color: red;
+}
+label,
+input[type="text"] {
+    margin: 1rem 0 0 0;
+    height: 20px;
+    padding: 8px;
+}
+
+input[type="text"]:focus-within,
+input[type="text"] {
+        border: none;
+        border-bottom: 1px solid #cecece;
+        background-color: #e8f0fe;
+    }
+
+input[type="submit"] {
+    margin-top: 0.5rem;
+    padding: 10px;
+    border-radius:5px;
+    border: 1px  solid #cecece;
+    background-color:cornflowerblue;
+    color:white;
+}
+
+.mandatory-message {
+    color: red;
+    height: 20px;
+}
+
+
+.showDataContainer {
+    border-radius:10px;
+    border:2px solid #cecece;
+    margin: 1rem;
+    padding: 2rem;
+}
